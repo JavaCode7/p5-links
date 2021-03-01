@@ -4,5 +4,5 @@
 ## Links
  To access any of these files in your html code:
  ```html
-    <script src="https://raw.githubusercontent.com/JavaCode7/p5-links/main/*.js"></script>
+    <script src="http://cdn.jsdelivr.net/gh/JavaCode7/p5-links/*.js"></script>
  ```
